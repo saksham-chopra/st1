@@ -1,0 +1,98 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.header{
+  background-color:#FBBB12;
+  padding: 5px 0px 5px 50px;
+}
+
+.header p{
+  font-size:30px;
+  color:#2C3A54;
+}
+
+.field{
+  border-top:5px solid white;
+  border-bottom:5px solid white;
+  background-color:#2C3A54;
+  color:#FBBB12;
+  font-size: 25px;
+}
+
+.field2{
+  text-align: center;
+}
+
+.field label{
+  padding: 0px 20px 0px 0px;
+  margin: 5px 0px 5px 0px;
+}
+
+.field input[type=text],
+input[type=email],
+input[type=password]
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  margin: 10px 0px 0px 0px;
+  padding: 10px;
+  width: 60%;
+  border-radius: 10px;
+}
+
+.field select{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  margin: 5px 30px 5px 0px;
+  padding: 10px;
+  border-radius: 8px;
+  width: 10%;
+}
+
+.field select option{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.rightshift{
+  margin-left: 12%;
+}
+
+.rightshift2{
+  margin-left: 27%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.footer{
+  background-color:#FBBB12;
+  padding: 15px 20px 15px 0px;
+  text-align: right;
+}
+
+.footer input{
+  font-size:25px;
+  color:white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  background-color:#69C270;
+  border: none;
+  padding:10px;
+  border-radius: 6px;
+}
+
+.footer button{
+  font-size:25px;
+  color:white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  background-color:#4FAAE4;
+  border: none;
+  padding:10px;
+  border-radius: 6px;
+}
